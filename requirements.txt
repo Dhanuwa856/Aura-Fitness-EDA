@@ -1,1 +1,4 @@
-"pandas\nnumpy\nmatplotlib\nseaborn" 
+pandas
+numpy
+matplotlib
+seaborn
